@@ -6,7 +6,6 @@
 // @author       xcvrys
 // @match        https://moodle2.e-wsb.pl/mod/quiz/review.php**
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=e-wsb.pl
-// @require      file://C:\Users\kamil\Desktop\moodle-discord\main.js
 // ==/UserScript==
 
 (function() {
